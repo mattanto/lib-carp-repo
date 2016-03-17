@@ -1,2 +1,8 @@
-# lib-carp-repo
-test repo for library carpentry @ Uio 2016-03-17/18
+### lib-carp-repo
+This is a test repo for library carpentry (biblioteksløyd) at Uio 2016-03-17/18
+
+This is only an example repo.
+
+It won't probably contain anything useful for anyone.
+
+Code block: `this is a code block`
